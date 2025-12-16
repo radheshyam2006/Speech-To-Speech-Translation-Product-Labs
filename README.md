@@ -63,7 +63,7 @@ Audio Input → ASR Service → MT Service → TTS Service → Audio Output
 1. **Clone the repository**
    ```bash
    git clone <repository-url>
-   cd "varun dass"
+   cd "radheshyam dass"
    ```
 
 2. **Install dependencies**
@@ -232,3 +232,4 @@ Special thanks to IIIT Hyderabad Product Labs for supporting this research and d
 ---
 
 For questions or support, please contact radheshyam.modampuri@students.iiit.ac.in
+
